@@ -1,5 +1,0 @@
-+++
-Description = ""
-type = "events"
-place = ""
-+++

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Seminario on Asociación Cordobesa de Aikido </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/tags/seminario/index.xml/</link>
+    <language>es-ar</language>
+    
+    
+    <updated>Sat, 27 Sep 2014 16:40:39 UTC</updated>
+    
+    <item>
+      <title>Seminario conmemoración 30 años de Aikido en Córdoba</title>
+      <link>http://localhost:1313/events/20140927-seminario/</link>
+      <pubDate>Sat, 27 Sep 2014 16:40:39 UTC</pubDate>
+      
+      <guid>http://localhost:1313/events/20140927-seminario/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

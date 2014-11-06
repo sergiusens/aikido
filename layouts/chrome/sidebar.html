@@ -7,7 +7,7 @@
     </div>
 
     <ul class="sidebar-nav">
-      <li><a href="/events">Eventos Próximos</a></li>
+      <li><a href="/events">Próximos Eventos</a></li>
       <li><a href="/pastevents">Eventos Pasados</a></li>
       <li><a href="/dojos">Dojos</a></li>
       {{ range .Site.Menus.main }}
@@ -16,5 +16,17 @@
     </ul>
 
     <p>{{ with .Site.Params.Copyright }}{{.}}{{ else }}&copy; {{.Now.Format "2006"}}. All rights reserved. {{end}}</p>
+
+
+    <div id="footer">
+      <p class="small">
+        Av. Vélez Sarsfield 910<br>
+        X5000JJW - Córdoba<br>
+        Córdoba<br>
+        Argentina
+      </p>
+    </div>
+
+
   </div>
 </div>
